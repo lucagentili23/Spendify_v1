@@ -4,7 +4,7 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-07-08T01:12:15.355726700Z">
+        <DropdownSelection timestamp="2025-07-10T01:54:38.902657300Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\Luca\.android\avd\iPhone_13_Pro_simile_.avd" />
